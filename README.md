@@ -1,0 +1,1 @@
+This is a simple currency converter using HTML, CSS, JavaScript and an API known as 'Frankfurter' custom build for live currenct rates.
